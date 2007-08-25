@@ -33,7 +33,7 @@ responses, file uploads.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 SharedBook opracował unikalną, uruchamianą na żądanie platformę
 ułatwiającą odbieranie, obróbkę oraz publikowanie treści w Internecie.
 SharedBook obecnie posiada także ogólnodostępne Open API (Application
