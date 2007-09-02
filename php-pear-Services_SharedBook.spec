@@ -37,7 +37,7 @@ In PEAR status of this package is: %{_status}.
 SharedBook opracował unikalną, uruchamianą na żądanie platformę
 ułatwiającą odbieranie, obróbkę oraz publikowanie treści w Internecie.
 SharedBook obecnie posiada także ogólnodostępne Open API (Application
-Porgrammin Interface) - każdy może napisać program przesyłający dane
+Programming Interface) - każdy może napisać program przesyłający dane
 do platformy SharedBook i korzystający z jej funkcjonalności do
 stworzenia przynoszących zyski książek, zarówno w wersji online jak i
 offline. Ten pakiet jest wrapperem dla wywołań Open API, zajmuje się
