@@ -7,7 +7,7 @@ Summary:	%{_pearname} - PHP wrapper for SharedBook Open API
 Summary(pl):	%{_pearname} - wrapper PHP dla otwartego API SharedBook
 Name:		php-pear-%{_pearname}
 Version:	0.2.2
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
