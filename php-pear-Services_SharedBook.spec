@@ -4,7 +4,7 @@
 %define		_status		beta
 %define		_pearname	Services_SharedBook
 Summary:	%{_pearname} - PHP wrapper for SharedBook Open API
-Summary(pl):	%{_pearname} - wrapper PHP dla otwartego API SharedBook
+Summary(pl.UTF-8):	%{_pearname} - wrapper PHP dla otwartego API SharedBook
 Name:		php-pear-%{_pearname}
 Version:	0.2.2
 Release:	2
