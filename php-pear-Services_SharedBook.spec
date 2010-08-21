@@ -1,19 +1,17 @@
 %include	/usr/lib/rpm/macros.php
-%define		_class		Services
-%define		_subclass	SharedBook
 %define		_status		beta
 %define		_pearname	Services_SharedBook
 Summary:	%{_pearname} - PHP wrapper for SharedBook Open API
 Summary(pl.UTF-8):	%{_pearname} - wrapper PHP dla otwartego API SharedBook
 Name:		php-pear-%{_pearname}
 Version:	0.2.6
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 # Source0-md5:	013c50484ba39c83c1b45c18df5b410a
 URL:		http://pear.php.net/package/Services_SharedBook/
-BuildRequires:	php-pear-PEAR
+BuildRequires:	php-pear-PEAR >= 1:1.4.0
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-pear
 Requires:	php-pear-HTTP_Client >= 1.1.1
