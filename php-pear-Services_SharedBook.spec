@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		beta
 %define		_pearname	Services_SharedBook
 Summary:	%{_pearname} - PHP wrapper for SharedBook Open API
